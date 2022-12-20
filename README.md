@@ -1,24 +1,33 @@
-# README
+# <Z to A>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### サイト概要
+<出産・育児に向けて産休・育休取得する際に焦らないためのサイト>
 
-Things you may want to cover:
+### テーマを選んだ理由
+<コロナ渦になり、出生率が増え共働きの夫婦も増加傾向にあります。
+これに伴い産休・育休を取得する夫婦も増えることを予想し、
+企業と社員が2人3脚で申請する産休・育休の手続きをスムーズにできる管理サイトがあると
+便利かと考えました。>
 
-* Ruby version
+### ターゲットユーザ
+#産休・育休を取得する社員
+#育休届等を作成する担当社員
 
-* System dependencies
+### 主な利用シーン
+#産休・育休を取得する際
+#産休・育休の取得手続きをする際
+#
 
-* Configuration
+## 設計書
+<…>
 
-* Database creation
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
