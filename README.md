@@ -1,4 +1,4 @@
-# <Z to A>
+# Z to A
 
 ## サイト概要
 出産・育児に向けた社員と企業をサポートするスケジュール管理アプリ
@@ -36,5 +36,4 @@
 - IDE：Cloud9
 
 ## 使用素材
-- くるみんマーク使用検討中です。
-  - [くるみんマーク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html)
+
